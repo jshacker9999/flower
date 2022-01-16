@@ -1,0 +1,16 @@
+body {
+    font-family: monospace;
+}
+
+.credits {
+    font-size: 11px;
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+    color: white;
+    text-align: left;
+}
+
+a {
+    color: white;
+}
